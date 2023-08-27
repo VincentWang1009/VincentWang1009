@@ -1,8 +1,9 @@
 ### Hi there 👋
 
 <img align="right" alt="GIF" src="https://raw.githubusercontent.com/JoeyBling/JoeyBling/master/pic/pusheencode.gif" />
-### Hi there 👋
 
+
+### Hi there 👋
 ### ✨ Quick Facts
 
 - 👨🏽‍💻 I’m currently working @kuaishou (FE Dev.)
