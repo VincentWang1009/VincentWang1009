@@ -3,7 +3,7 @@
 <img align="right" alt="GIF" src="https://raw.githubusercontent.com/JoeyBling/JoeyBling/master/pic/pusheencode.gif" />
 
 
-### Hi there 👋
+### I'm Wang Jian
 ### ✨ Quick Facts
 
 - 👨🏽‍💻 I’m currently working @kuaishou (FE Dev.)
